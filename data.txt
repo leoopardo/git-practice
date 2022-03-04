@@ -1,4 +1,4 @@
-
 name: Leonardo,
-Age: 21
-Favorite Color: Black
+Age: 21,
+Favorite Color: Blue
+
